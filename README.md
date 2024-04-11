@@ -1,3 +1,4 @@
+![logo](https://github.com/Surexx7/Surexx7/blob/main/20240411_165037.png)
 <h1 align="center">Hi 👋, I'm Suresh Shahi</h1>
 <h3 align="center">A passionate BSC CSIT Student From Nepal</h3>
 
