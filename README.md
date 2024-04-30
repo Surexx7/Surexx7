@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning(ML), Artificial Intelligenc(AI)**
 
-- 📝 I regularly write articles on [http://nepview.com/](http://nepview.com/)
+- 📝 Know me more on [http://sureshshahi7.com.np/](http://sureshshahi7.com.np/)
 
 - 📫 How to reach me **sureshshahi5912@gmail.com**
 
